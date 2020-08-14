@@ -13,7 +13,7 @@ void main() {
 		cout << "Enter Year : ";
 		cin >> year;
 		int total = cal_age(year);
-		cout << "Age : " << total << endl;
+		cout << "Age : "<<n<<"" << total << endl;
 	}
 	cout << "Thank you.";
 }
