@@ -9,7 +9,7 @@ void main() {
 	cout << "Enter person : ";
 	cin >> nump;
 	for (int n = 1; n <= nump; n++) {
-		int year, totalyear = 0;
+		int year;
 		cout << "Enter Year : ";
 		cin >> year;
 		int total = cal_age(year);
